@@ -1,39 +1,55 @@
 # 🍔 HamburgueriaZ - Android App
 
-HamburgueriaZ is a simple Android application developed in Java using Android Studio.  
-The app simulates a food ordering system where users can customize their burger order and send it via email.
+Mobile application developed in Android Studio using Java.  
+This app simulates a burger ordering system with customizable options and email integration.
 
-## 🚀 Features
+---
 
-- User input for customer name
-- Add extras (Bacon, Cheese, Onion Rings)
-- Increase/decrease quantity
+## 📱 Features
+
+- Select burger extras (Bacon, Cheese, Onion Rings)
+- Adjust quantity dynamically
 - Order summary generation
-- Send order via email using Intent
+- Email integration using Intent
+- User input handling
+
+---
 
 ## 🛠️ Technologies
 
 - Java
 - Android Studio
 - XML (UI Design)
-- Intents (Email integration)
+- Intent (Email integration)
 
-## 📱 How it works
-
-1. Enter your name
-2. Select extras
-3. Choose quantity
-4. Click "Send Order"
-5. Email app opens with order summary
+---
 
 ## 📸 Screenshots
 
-(Add your images here)
+### Order Screen
+![Order Screen](images/order-screen.png)
 
-## 🎯 Purpose
+### Email Intent
+![Email Intent](images/email-intent.png)
 
-This project was developed as part of academic training to practice Android development fundamentals, including UI design, event handling, and system interaction.
+---
+
+## 🚀 How it works
+
+1. User enters their name
+2. Selects extras
+3. Adjusts quantity
+4. App generates order summary
+5. Opens email app with order details
+
+---
+
+## 📌 Notes
+
+This project was developed as part of academic training, focused on learning Android fundamentals, UI design, and event handling.
+
+---
 
 ## 👩‍💻 Author
 
-Amanda Lima
+Amanda Lima  
