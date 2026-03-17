@@ -24,6 +24,13 @@ This app simulates a burger ordering system with customizable options and email 
 
 ---
 
+## 🌍 Language
+
+- App interface: Portuguese  
+- Documentation: English
+
+---
+
 ## 📸 Screenshots
 
 ### Order Screen
