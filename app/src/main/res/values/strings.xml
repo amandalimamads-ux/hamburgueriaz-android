@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HamburgueriaZ</string>
+    <string name="bacon">Bacon</string>
+    <string name="queijo">Queijo</string>
+    <string name="onion_rings">Onion Rings</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="resumo">Resumo do pedido</string>
+    <string name="enviar">Enviar Pedido</string>
+    <string name="faca_pedido">Faça seu pedido</string>
+    <string name="digite_nome">Digite seu nome</string>
+
+
+</resources>
