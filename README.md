@@ -3,6 +3,10 @@
 Mobile application developed in Android Studio using Java.  
 This app simulates a burger ordering system with customizable options and email integration.
 
+## 🎥 Demo
+
+[![Ver demo](https://img.youtube.com/vi/5jnG2qB2ez0/maxresdefault.jpg)](https://youtu.be/5jnG2qB2ez0)
+
 ---
 
 ## 📱 Features
