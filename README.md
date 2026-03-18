@@ -5,7 +5,9 @@ This app simulates a burger ordering system with customizable options and email 
 
 ## 🎥 Demo
 
-[![Ver demo](https://img.youtube.com/vi/5jnG2qB2ez0/maxresdefault.jpg)](https://youtu.be/5jnG2qB2ez0)
+<a href="https://youtu.be/5jnG2qB2ez0">
+  <img src="https://img.youtube.com/vi/5jnG2qB2ez0/maxresdefault.jpg" width="600">
+</a>
 
 ---
 
